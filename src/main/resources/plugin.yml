@@ -2,3 +2,9 @@ name: LeaderboardLLM
 version: '1.0'
 main: cn.org.agatha.leaderboardLLM.LeaderboardLLM
 api-version: '1.21'
+
+# 注册指令 /ai
+commands:
+  ai:
+    description: "AI 相关功能"
+    usage: "/ai <command>"
