@@ -1,0 +1,4 @@
+name: LeaderboardLLM
+version: '1.0'
+main: cn.org.agatha.leaderboardLLM.LeaderboardLLM
+api-version: '1.21'
